@@ -1,7 +1,7 @@
 package com.java.pattern.design.factoryMethod;
 
 import com.java.pattern.design.factoryMethod.factory.ShapeFactory;
-import com.java.pattern.design.factoryMethod.service.Shape;
+import com.java.pattern.design.factoryMethod.model.Shape;
 
 public class FactoryPatternDemo {
 

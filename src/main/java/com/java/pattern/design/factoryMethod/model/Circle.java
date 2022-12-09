@@ -1,6 +1,4 @@
-package com.java.pattern.design.factoryMethod.serviceImpl;
-
-import com.java.pattern.design.factoryMethod.service.Shape;
+package com.java.pattern.design.factoryMethod.model;
 
 public class Circle implements Shape {
     @Override

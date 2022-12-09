@@ -1,9 +1,9 @@
 package com.java.pattern.design.factoryMethod.factory;
 
-import com.java.pattern.design.factoryMethod.service.*;
-import com.java.pattern.design.factoryMethod.serviceImpl.Circle;
-import com.java.pattern.design.factoryMethod.serviceImpl.Rectangle;
-import com.java.pattern.design.factoryMethod.serviceImpl.Square;
+import com.java.pattern.design.factoryMethod.model.Circle;
+import com.java.pattern.design.factoryMethod.model.Rectangle;
+import com.java.pattern.design.factoryMethod.model.Shape;
+import com.java.pattern.design.factoryMethod.model.Square;
 
 public class ShapeFactory {
 
