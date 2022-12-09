@@ -16,7 +16,7 @@ Some pattern catalogs list other useful details, such as applicability of the pa
 
 provide object creation mechanisms that increase flexibility and reuse of existing code.
 
-- [x] [Factory Method](https://github.com/SumitJadiya/learn-java-design-pattern/tree/main/com/java/pattern/design/factoryMethod) - Provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+- [x] [Factory Method](https://github.com/SumitJadiya/learn-java-design-pattern/tree/main/src/main/java/com/java/pattern/design/factoryMethod) - Provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 - [ ] Abstract Factory - Lets you produce families of related objects without specifying their concrete classes.
 - [ ] Builder - Lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 - [ ] Prototype - Lets you copy existing objects without making your code dependent on their classes.
